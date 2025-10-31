@@ -34,7 +34,7 @@ entries:
     - https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd
     - https://github.com/argoproj/argo-cd
     urls:
-    - https://gustorin.github.io/helm-charts/argo-cd-7.7.16.tgz
+    - https://angelon-ai.github.io/helm-charts/argo-cd-7.7.16.tgz
     version: 7.7.16
   argo-events:
   - annotations:
@@ -62,7 +62,7 @@ entries:
     sources:
     - https://github.com/argoproj/argo-events
     urls:
-    - https://gustorin.github.io/helm-charts/argo-events-2.4.13.tgz
+    - https://angelon-ai.github.io/helm-charts/argo-events-2.4.13.tgz
     version: 2.4.13
   argo-rollouts:
   - annotations:
@@ -91,7 +91,7 @@ entries:
     sources:
     - https://github.com/argoproj/argo-rollouts
     urls:
-    - https://gustorin.github.io/helm-charts/argo-rollouts-2.38.2.tgz
+    - https://angelon-ai.github.io/helm-charts/argo-rollouts-2.38.2.tgz
     version: 2.38.2
   argo-workflows:
   - annotations:
@@ -116,7 +116,7 @@ entries:
     - https://github.com/argoproj/argo-workflows
     type: application
     urls:
-    - https://gustorin.github.io/helm-charts/argo-workflows-0.45.4.tgz
+    - https://angelon-ai.github.io/helm-charts/argo-workflows-0.45.4.tgz
     version: 0.45.4
   cloudnative-pg:
   - apiVersion: v2
@@ -146,7 +146,7 @@ entries:
     - https://github.com/cloudnative-pg/charts
     type: application
     urls:
-    - https://gustorin.github.io/helm-charts/cloudnative-pg-0.23.0.tgz
+    - https://angelon-ai.github.io/helm-charts/cloudnative-pg-0.23.0.tgz
     version: 0.23.0
   cnpg-cluster:
   - apiVersion: v2
@@ -167,7 +167,7 @@ entries:
     - https://github.com/cloudnative-pg/charts
     type: application
     urls:
-    - https://gustorin.github.io/helm-charts/cnpg-cluster-0.2.0.tgz
+    - https://angelon-ai.github.io/helm-charts/cnpg-cluster-0.2.0.tgz
     version: 0.2.0
   gitea:
   - apiVersion: v2
@@ -220,7 +220,7 @@ entries:
     - https://hub.docker.com/r/gitea/gitea/
     type: application
     urls:
-    - https://gustorin.github.io/helm-charts/gitea-10.6.0.tgz
+    - https://angelon-ai.github.io/helm-charts/gitea-10.6.0.tgz
     version: 10.6.0
   harbor:
   - apiVersion: v1
@@ -247,7 +247,7 @@ entries:
     - https://github.com/goharbor/harbor
     - https://github.com/goharbor/harbor-helm
     urls:
-    - https://gustorin.github.io/helm-charts/harbor-1.16.2.tgz
+    - https://angelon-ai.github.io/helm-charts/harbor-1.16.2.tgz
     version: 1.16.2
   keycloakx:
   - apiVersion: v2
@@ -276,7 +276,7 @@ entries:
     - https://github.com/codecentric/helm-charts
     - https://github.com/keycloak/keycloak/tree/main/quarkus/container
     urls:
-    - https://gustorin.github.io/helm-charts/keycloakx-2.2.2.tgz
+    - https://angelon-ai.github.io/helm-charts/keycloakx-2.2.2.tgz
     version: 2.2.2
   longhorn:
   - apiVersion: v1
@@ -309,7 +309,7 @@ entries:
     - https://github.com/longhorn/longhorn-tests
     - https://github.com/longhorn/backing-image-manager
     urls:
-    - https://gustorin.github.io/helm-charts/longhorn-1.7.2.tgz
+    - https://angelon-ai.github.io/helm-charts/longhorn-1.7.2.tgz
     version: 1.7.2
   minio:
   - apiVersion: v1
@@ -332,7 +332,7 @@ entries:
     sources:
     - https://github.com/minio/minio
     urls:
-    - https://gustorin.github.io/helm-charts/minio-5.4.0.tgz
+    - https://angelon-ai.github.io/helm-charts/minio-5.4.0.tgz
     version: 5.4.0
   victoria-metrics-k8s-stack:
   - annotations:
@@ -398,6 +398,6 @@ entries:
     - https://github.com/VictoriaMetrics/helm-charts
     type: application
     urls:
-    - https://gustorin.github.io/helm-charts/victoria-metrics-k8s-stack-0.33.5.tgz
+    - https://angelon-ai.github.io/helm-charts/victoria-metrics-k8s-stack-0.33.5.tgz
     version: 0.33.5
 generated: "2025-01-21T11:40:59.488045+09:00"
