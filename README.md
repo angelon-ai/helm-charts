@@ -34,7 +34,7 @@ Helm 차트를 설치하려면 다음 명령어를 사용하세요:
 1. Helm 저장소 추가:
 
 ```bash
-   helm repo add gustorin https://gustorin.github.io/helm-charts
+   helm repo add angelon-ai https://angelon-ai.github.io/helm-charts
 ```
 
 2. Helm 저장소 업데이트:
@@ -46,5 +46,5 @@ Helm 차트를 설치하려면 다음 명령어를 사용하세요:
 3. Helm 차트 설치:
 
 ```bash
-    helm install argo-cd gustorin/argo-cd
+    helm install argo-cd angelon-ai/argo-cd
 ```
